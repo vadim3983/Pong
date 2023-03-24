@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\rpcndr.h(190,1): warning C4005: 'small': macro redefinition
+C:\Users\vvi05\OneDrive\Рабочий стол\pong\Pong\resource.h(24,1): message : see previous definition of 'small'
+C:\Users\vvi05\OneDrive\Рабочий стол\pong\Pong\resource.h(24,1): warning C4005: 'small': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\rpcndr.h(190,1): message : see previous definition of 'small'
+  ball.cpp
+  bitmap.cpp
+  collision_detection.cpp
+  menu.cpp
+  paddle.cpp
+  pong.cpp
+C:\Users\vvi05\OneDrive\Рабочий стол\pong\Pong\pong.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+pong.rc(96): warning RC2182: duplicate dialog control ID 333
+  
+pong.rc(97): warning RC2182: duplicate dialog control ID 333
+  
+  Generating code
+  0 of 32 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lab2.vcxproj -> C:\Users\vvi05\OneDrive\Рабочий стол\pong\Pong\x64\Release\Pong.exe
